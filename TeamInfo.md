@@ -6,14 +6,14 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-024        |
 | TeamName    |        TheTeam24       |
-| Captain     |                        |
-| Captain     |                        |
-| Member1     |                        |
-| Member1     |                        |
-| Member2     |                        |
-| Member2     |                        |
-| Member3     |                        |
-| Member3     |                        |
+| Captain     |             Mitesh Ballae Ganesh           |
+| Captain     |             mballae2@illinois.edu           |
+| Member1     |             Albert Yan           |
+| Member1     |             ahyan2@illinois.edu           |
+| Member2     |             Mathew Ishaq           |
+| Member2     |             mrishaq2@illinois.edu           |
+| Member3     |             Teja Nerella           |
+| Member3     |             nerella2@illinois.edu           |
 
 ## Project Information
 
