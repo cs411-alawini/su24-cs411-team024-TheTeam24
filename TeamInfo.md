@@ -4,12 +4,12 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-000        |
-| TeamName    |         sample         |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |        Lahari Anne       |
-| Member1     |   lanne2@illinois.edu  |
+| TeamID      |        Team-024        |
+| TeamName    |        TheTeam24       |
+| Captain     |                        |
+| Captain     |                        |
+| Member1     |                        |
+| Member1     |                        |
 | Member2     |                        |
 | Member2     |                        |
 | Member3     |                        |
