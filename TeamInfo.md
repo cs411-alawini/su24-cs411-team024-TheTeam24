@@ -6,7 +6,7 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-024        |
 | TeamName    |        TheTeam24       |
-| Captain     |             Mitesh Ballae Ganesh           |
+| Captain     |             Mithesh Ballae Ganesh           |
 | Captain     |             mballae2@illinois.edu           |
 | Member1     |             Albert Yan           |
 | Member1     |             ahyan2@illinois.edu           |
